@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9e30a1d913fa31444a99759d4c49adeb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - top_menu_skin: {fileID: 11400000, guid: 03930c46e9f40f946a394221c63ead5f, type: 2}
+  - home_icon: {fileID: 2800000, guid: 5dbc19fa4410bce4393debb872f44dba, type: 3}
+  - search_icon: {fileID: 2800000, guid: 9becbf91aa703c44bbb5911f0d33aa03, type: 3}
+  - screenshot_icon: {fileID: 2800000, guid: 891aef44fd649974eb35ef3d18710486, type: 3}
+  - orbiter_icon: {fileID: 2800000, guid: 90443dd6dfb593d4b90214f8fa97b08e, type: 3}
+  - avatar_icon: {fileID: 2800000, guid: 3a8da3857fb8e2c438be447bc597e864, type: 3}
+  - paint_icon: {instanceID: 0}
+  - paint: {instanceID: 0}
+  - search: {instanceID: 0}
+  - viewer: {instanceID: 0}
+  - selection: {instanceID: 0}
+  - highlight: {instanceID: 0}
+  - screenshot: {instanceID: 0}
+  - control_manager: {instanceID: 0}
+  - compare_versions: {instanceID: 0}
+  - pressure_propogation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

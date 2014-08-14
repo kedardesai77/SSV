@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 19e00f80f0287ba459bfeaceea905b5a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - viewer: {instanceID: 0}
+  - highlight_skin: {fileID: 11400000, guid: b63f2c7cf58e569439943ef9f6f5c052, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

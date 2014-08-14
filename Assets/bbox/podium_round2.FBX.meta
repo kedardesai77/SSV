@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 3c005cc83e53c014e924149c9de80cfa
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Block:SL100
+    100002: Block:SL100 1
+    100004: Block:SL100 2
+    100006: Block:SL100 3
+    100008: Block:SL100 4
+    100010: //RootNode
+    100012: Polyline
+    100014: Polyline 1
+    100016: Polyline 10
+    100018: Polyline 11
+    100020: Polyline 12
+    100022: Polyline 13
+    100024: Polyline 14
+    100026: Polyline 15
+    100028: Polyline 16
+    100030: Polyline 17
+    100032: Polyline 18
+    100034: Polyline 19
+    100036: Polyline 2
+    100038: Polyline 20
+    100040: Polyline 21
+    100042: Polyline 22
+    100044: Polyline 23
+    100046: Polyline 3
+    100048: Polyline 4
+    100050: Polyline 5
+    100052: Polyline 6
+    100054: Polyline 7
+    100056: Polyline 8
+    100058: Polyline 9
+    400000: Block:SL100
+    400002: Block:SL100 1
+    400004: Block:SL100 2
+    400006: Block:SL100 3
+    400008: Block:SL100 4
+    400010: //RootNode
+    400012: Polyline
+    400014: Polyline 1
+    400016: Polyline 10
+    400018: Polyline 11
+    400020: Polyline 12
+    400022: Polyline 13
+    400024: Polyline 14
+    400026: Polyline 15
+    400028: Polyline 16
+    400030: Polyline 17
+    400032: Polyline 18
+    400034: Polyline 19
+    400036: Polyline 2
+    400038: Polyline 20
+    400040: Polyline 21
+    400042: Polyline 22
+    400044: Polyline 23
+    400046: Polyline 3
+    400048: Polyline 4
+    400050: Polyline 5
+    400052: Polyline 6
+    400054: Polyline 7
+    400056: Polyline 8
+    400058: Polyline 9
+    2300000: Block:SL100
+    2300002: Block:SL100 1
+    2300004: Block:SL100 2
+    2300006: Block:SL100 3
+    2300008: Block:SL100 4
+    2300010: Polyline
+    2300012: Polyline 1
+    2300014: Polyline 10
+    2300016: Polyline 11
+    2300018: Polyline 12
+    2300020: Polyline 13
+    2300022: Polyline 14
+    2300024: Polyline 15
+    2300026: Polyline 16
+    2300028: Polyline 17
+    2300030: Polyline 18
+    2300032: Polyline 19
+    2300034: Polyline 2
+    2300036: Polyline 20
+    2300038: Polyline 21
+    2300040: Polyline 22
+    2300042: Polyline 23
+    2300044: Polyline 3
+    2300046: Polyline 4
+    2300048: Polyline 5
+    2300050: Polyline 6
+    2300052: Polyline 7
+    2300054: Polyline 8
+    2300056: Polyline 9
+    3300000: Block:SL100
+    3300002: Block:SL100 1
+    3300004: Block:SL100 2
+    3300006: Block:SL100 3
+    3300008: Block:SL100 4
+    3300010: Polyline
+    3300012: Polyline 1
+    3300014: Polyline 10
+    3300016: Polyline 11
+    3300018: Polyline 12
+    3300020: Polyline 13
+    3300022: Polyline 14
+    3300024: Polyline 15
+    3300026: Polyline 16
+    3300028: Polyline 17
+    3300030: Polyline 18
+    3300032: Polyline 19
+    3300034: Polyline 2
+    3300036: Polyline 20
+    3300038: Polyline 21
+    3300040: Polyline 22
+    3300042: Polyline 23
+    3300044: Polyline 3
+    3300046: Polyline 4
+    3300048: Polyline 5
+    3300050: Polyline 6
+    3300052: Polyline 7
+    3300054: Polyline 8
+    3300056: Polyline 9
+    4300000: Polyline
+    4300002: Polyline
+    4300004: Block:SL100
+    4300006: Block:SL100
+    4300008: Block:SL100
+    4300010: Block:SL100
+    4300012: Block:SL100
+    4300014: Polyline
+    4300016: Polyline
+    4300018: Polyline
+    4300020: Polyline
+    4300022: Polyline
+    4300024: Polyline
+    4300026: Polyline
+    4300028: Polyline
+    4300030: Polyline
+    4300032: Polyline
+    4300034: Polyline
+    4300036: Polyline
+    4300038: Polyline
+    4300040: Polyline
+    4300042: Polyline
+    4300044: Polyline
+    4300046: Polyline
+    4300048: Polyline
+    4300050: Polyline
+    4300052: Polyline
+    4300054: Polyline
+    4300056: Polyline
+    6400000: Block:SL100
+    6400002: Block:SL100 1
+    6400004: Block:SL100 2
+    6400006: Block:SL100 3
+    6400008: Block:SL100 4
+    6400010: Polyline
+    6400012: Polyline 1
+    6400014: Polyline 10
+    6400016: Polyline 11
+    6400018: Polyline 12
+    6400020: Polyline 13
+    6400022: Polyline 14
+    6400024: Polyline 15
+    6400026: Polyline 16
+    6400028: Polyline 17
+    6400030: Polyline 18
+    6400032: Polyline 19
+    6400034: Polyline 2
+    6400036: Polyline 20
+    6400038: Polyline 21
+    6400040: Polyline 22
+    6400042: Polyline 23
+    6400044: Polyline 3
+    6400046: Polyline 4
+    6400048: Polyline 5
+    6400050: Polyline 6
+    6400052: Polyline 7
+    6400054: Polyline 8
+    6400056: Polyline 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

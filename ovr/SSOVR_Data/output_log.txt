@@ -1,0 +1,102 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3523]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST
+    Vendor:   NVIDIA
+    VRAM:     1989 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-Boo.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-Boo.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Fluvio.Runtime.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Fluvio.Runtime.dll into Unity Child Domain
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Vectrosity.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\System.Core.dll (this message is harmless)
+External Call: SetTheSSFileName("SafeSim");
+ 
+(Filename:  Line: 334)
+
+UnloadTime: 0.203895 ms
+Going to Full-Screen
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 691.
+Total: 0.779848 ms (FindLiveObjects: 0.031830 ms CreateObjectMapping: 0.009909 ms MarkObjects: 0.271160 ms  DeleteObjects: 0.084380 ms)
+
+LoadingSpinnerON Notify list not found in PostNotification.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LoadingSpinnerON Notify list not found in PostNotification.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+http://www.image-edge360.com/UnityModels/9007/SS-ISPS1-305.unity3d
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LoadingSpinnerON Notify list not found in PostNotification.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LoadingSpinnerON Notify list not found in PostNotification.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+External Call: SetTheSSFileName("SS-ISPS1-305");
+ 
+(Filename:  Line: 334)
+
+LoadingSpinnerOFF Notify list not found in PostNotification.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: E:\Projects\SafeSim\ovr\SSOVR_Data\Managed\Boo.Lang.dll (this message is harmless)
+External Call: SafeSimSelect("5425BF58-3D2B-468F-96C7-519062F222CF|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+
+External Call: SafeSimSelect("C1B2B954-7C27-4AD3-B31B-828AF4EC65EB|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+
+External Call: SafeSimSelect("D016F936-22EA-45CA-8070-DA1CD6C70D7F|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+
+External Call: SafeSimSelect("ACC667B6-DAFE-46DA-BE09-1235FB78AE1D|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+
+External Call: SafeSimSelect("C1B2B954-7C27-4AD3-B31B-828AF4EC65EB|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+
+External Call: SafeSimSelect("C1B2B954-7C27-4AD3-B31B-828AF4EC65EB|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+
+External Call: SafeSimSelect("D016F936-22EA-45CA-8070-DA1CD6C70D7F|68AFFD5D-2B92-4B7A-8A86-4C8B4E0D4C4A");
+ 
+(Filename:  Line: 334)
+

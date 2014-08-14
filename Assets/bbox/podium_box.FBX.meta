@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 3666aa868e587ee4a92c8cef7d75ab02
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Block:SL100
+    100002: Block:SL100 1
+    100004: Block:SL100 2
+    100006: Block:SL100 3
+    100008: //RootNode
+    100010: Polyline
+    100012: Polyline 1
+    100014: Polyline 10
+    100016: Polyline 11
+    100018: Polyline 12
+    100020: Polyline 2
+    100022: Polyline 3
+    100024: Polyline 4
+    100026: Polyline 5
+    100028: Polyline 6
+    100030: Polyline 7
+    100032: Polyline 8
+    100034: Polyline 9
+    400000: Block:SL100
+    400002: Block:SL100 1
+    400004: Block:SL100 2
+    400006: Block:SL100 3
+    400008: //RootNode
+    400010: Polyline
+    400012: Polyline 1
+    400014: Polyline 10
+    400016: Polyline 11
+    400018: Polyline 12
+    400020: Polyline 2
+    400022: Polyline 3
+    400024: Polyline 4
+    400026: Polyline 5
+    400028: Polyline 6
+    400030: Polyline 7
+    400032: Polyline 8
+    400034: Polyline 9
+    2300000: Block:SL100
+    2300002: Block:SL100 1
+    2300004: Block:SL100 2
+    2300006: Block:SL100 3
+    2300008: Polyline
+    2300010: Polyline 1
+    2300012: Polyline 10
+    2300014: Polyline 11
+    2300016: Polyline 12
+    2300018: Polyline 2
+    2300020: Polyline 3
+    2300022: Polyline 4
+    2300024: Polyline 5
+    2300026: Polyline 6
+    2300028: Polyline 7
+    2300030: Polyline 8
+    2300032: Polyline 9
+    3300000: Block:SL100
+    3300002: Block:SL100 1
+    3300004: Block:SL100 2
+    3300006: Block:SL100 3
+    3300008: Polyline
+    3300010: Polyline 1
+    3300012: Polyline 10
+    3300014: Polyline 11
+    3300016: Polyline 12
+    3300018: Polyline 2
+    3300020: Polyline 3
+    3300022: Polyline 4
+    3300024: Polyline 5
+    3300026: Polyline 6
+    3300028: Polyline 7
+    3300030: Polyline 8
+    3300032: Polyline 9
+    4300000: Polyline
+    4300002: Polyline
+    4300004: Polyline
+    4300006: Block:SL100
+    4300008: Block:SL100
+    4300010: Block:SL100
+    4300012: Block:SL100
+    4300014: Polyline
+    4300016: Polyline
+    4300018: Polyline
+    4300020: Polyline
+    4300022: Polyline
+    4300024: Polyline
+    4300026: Polyline
+    4300028: Polyline
+    4300030: Polyline
+    4300032: Polyline
+    6400000: Block:SL100
+    6400002: Block:SL100 1
+    6400004: Block:SL100 2
+    6400006: Block:SL100 3
+    6400008: Polyline
+    6400010: Polyline 1
+    6400012: Polyline 10
+    6400014: Polyline 11
+    6400016: Polyline 12
+    6400018: Polyline 2
+    6400020: Polyline 3
+    6400022: Polyline 4
+    6400024: Polyline 5
+    6400026: Polyline 6
+    6400028: Polyline 7
+    6400030: Polyline 8
+    6400032: Polyline 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

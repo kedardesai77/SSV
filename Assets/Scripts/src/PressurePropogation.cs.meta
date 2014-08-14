@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d3d989dbece308b40aaaf808b381ae6d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selection: {instanceID: 0}
+  - PP_SKIN: {fileID: 11400000, guid: 9bd018272c0d10547905147319b62c59, type: 2}
+  - line_material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
